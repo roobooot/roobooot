@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zeyu Lu (Zachary) @roobooot
+- 👋 Hi, I’m Zeyu Lu (Zach) @roobooot
 - 👀 I’m interested in robotics, especially in bioinspired robotic design, sensing, and learning.
 - 🌱 I’m currently pursuing my PhD degree @ National University of Singapore (NUS), supervised by Prof. Haoyong Yu.
 - 💞️ I’m looking to collaborate on anything that we could learn something from to improve ourselves. 
