@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zeyu Lu (Zach) @roobooot
-- 👀 I’m interested in robotics, especially in bioinspired robotic design, sensing, and learning.
-- 🌱 I’m currently pursuing my PhD degree @ National University of Singapore (NUS), supervised by Prof. Haoyong Yu.
+- 👀 I’m interested in robotics, especially in tactile force sensing.
+- 🌱 I’m currently pursuing my Engineering PhD degree @ National University of Singapore (NUS), supervised by Prof. Haoyong Yu.
 - 💞️ I’m looking to collaborate on anything that we could learn something from to improve ourselves. 
 - 📫 How to reach me: email --> zeyu.lu@u.nus.edu; website --> [Homepage](https://www.zeyulu.com) --> [Project page](https://www.zeyulu.com/project-page)
 
